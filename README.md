@@ -1,2 +1,5 @@
 # dio-desafio-github-primeiro-rpc
-Desafio de projeto sobre Git/Github.
+Repositorio criado para o Desafio do projeto do git.
+
+"" Links  úteis
+{Sintaxe Basica Mackdown}(https://www.markdownguide.org/basic-syntax/)
